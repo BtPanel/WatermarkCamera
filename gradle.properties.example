@@ -1,0 +1,6 @@
+org.gradle.jvmargs=-Xmx3072m -Dfile.encoding=UTF-8
+android.useAndroidX=true
+android.nonTransitiveRClass=true
+kotlin.code.style=official
+# Copy this file to gradle.properties and set your own restricted Android key.
+AMAP_API_KEY=

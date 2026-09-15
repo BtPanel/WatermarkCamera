@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Watermark Camera mark">
+<rect width="100" height="100" rx="22" fill="#E43D36"/>
+<path fill="#FFFFFF" fill-rule="evenodd" d="M18 12h64a6 6 0 0 1 6 6v52L64 88H18a6 6 0 0 1-6-6V18a6 6 0 0 1 6-6Zm8 14v48h33l15-11V26H26Zm24 9a15 15 0 1 1 0 30 15 15 0 0 1 0-30Zm0 10a5 5 0 1 0 0 10 5 5 0 0 0 0-10Z"/>
+<circle cx="50" cy="50" r="5" fill="#FFC247"/>
+</svg>

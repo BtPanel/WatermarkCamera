@@ -1,0 +1,186 @@
+{
+  "manifest_version": "1.0",
+  "source_master": {
+    "filename": "logo-mark.svg",
+    "variant": "B2 coordinate-cut",
+    "sha256": "825b34691de8f91f28a109fb8c7e4a8f535301e57b6737e1543975b09b0dafbe"
+  },
+  "source_status": "provisional",
+  "decision_date": "2026-09-09",
+  "profile": "neutral/android-unverified",
+  "exports": [
+    {
+      "filename": "logo-mark.svg",
+      "role": "editable neutral master",
+      "format": "svg",
+      "appearance": "monochrome",
+      "background": "transparent",
+      "sha256": "825b34691de8f91f28a109fb8c7e4a8f535301e57b6737e1543975b09b0dafbe",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "logo-mark-reversed.svg",
+      "role": "reversed mark",
+      "format": "svg",
+      "appearance": "reversed",
+      "background": "transparent",
+      "sha256": "1f39702a3efd3830c3870b6727774c023131954445832df1ce81c43615a6eb4a",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon.svg",
+      "role": "full-color app icon",
+      "format": "svg",
+      "appearance": "signal-red",
+      "background": "#E43D36",
+      "sha256": "21ec543248997008cf2f9f47ad1112319570f4b6da85f096d87d2fd40cbe5a40",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-16.png",
+      "role": "small-size QA and raster export",
+      "format": "png",
+      "dimensions": {
+        "width": 16,
+        "height": 16
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "6679cc61615afb77fdd48d35b65ddfc46e8abf7ac199ed0e7cce6e867dfa6c97",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-32.png",
+      "role": "small-size QA and raster export",
+      "format": "png",
+      "dimensions": {
+        "width": 32,
+        "height": 32
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "51e4510811fb93584d292e5fdefdd4664f41f760a3fe9f73c9a5f2d2f3defd2b",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-48.png",
+      "role": "small-size QA and raster export",
+      "format": "png",
+      "dimensions": {
+        "width": 48,
+        "height": 48
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "f6509df9b77b1c16b401269bfaaddf8d76b5c42428052dccc2191f9b578f689e",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-64.png",
+      "role": "small-size QA and raster export",
+      "format": "png",
+      "dimensions": {
+        "width": 64,
+        "height": 64
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "562fabe52fa626804e7f4bb692c5b530b74c9ce1c8639f446abb3ab412062794",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-72.png",
+      "role": "raster app icon",
+      "format": "png",
+      "dimensions": {
+        "width": 72,
+        "height": 72
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "0544dd10cabe9335e24428d71801266e354b7462b5555f3cde6bed29f48b3133",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-96.png",
+      "role": "raster app icon",
+      "format": "png",
+      "dimensions": {
+        "width": 96,
+        "height": 96
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "c84d00cd2271767b58c9ff2e51fb4c1ac67efaba5ed9b9c02052a7d5791ddd90",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-144.png",
+      "role": "raster app icon",
+      "format": "png",
+      "dimensions": {
+        "width": 144,
+        "height": 144
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "fca6f2afca8c74e32523e063c056bb9a50dd2132c48530923999ee6fee50572d",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-192.png",
+      "role": "raster app icon",
+      "format": "png",
+      "dimensions": {
+        "width": 192,
+        "height": 192
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "94335a27c23ee7d99afbf3d1543847786fbfc728956fa428618aa35f6e851ef4",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-512.png",
+      "role": "raster app icon",
+      "format": "png",
+      "dimensions": {
+        "width": 512,
+        "height": 512
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "9053616f592bf81576f85cb79213e5801283c918dac9f11d4d25682795e0163b",
+      "source_master": "logo-mark.svg"
+    },
+    {
+      "filename": "app-icon-1024.png",
+      "role": "raster app icon",
+      "format": "png",
+      "dimensions": {
+        "width": 1024,
+        "height": 1024
+      },
+      "appearance": "signal-red",
+      "background": "transparent outside rounded preview container",
+      "sha256": "dedc0ae0bb76d691535a19bad905893e2f6a1e74845dc00cac7bd5263c388b5d",
+      "source_master": "logo-mark.svg"
+    }
+  ],
+  "color": {
+    "color_space": "sRGB",
+    "background": "#E43D36",
+    "mark": "#FFFFFF",
+    "record_point": "#FFC247",
+    "monochrome": "currentColor"
+  },
+  "tool_context": "Node.js geometry and PNG exporter; no external assets or fonts",
+  "exceptions": [
+    {
+      "profile": "Android",
+      "owner": "product team",
+      "consequence": "Exports are not claimed to satisfy a current Android adaptive-icon profile.",
+      "next_verification": "Place the neutral mark into the project adaptive-icon template and verify current launcher masks."
+    }
+  ]
+}
